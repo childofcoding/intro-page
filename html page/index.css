@@ -1,0 +1,33 @@
+body {
+    background: black;
+}
+h1 {
+    font-family: cursive;
+    font-size: 150px;
+    text-align: center;
+    color: blue;
+}
+h2 {
+    font-family: cursive-fantasy;
+    font-size: 100px;
+    text-align: center;
+    color: blue;
+}
+h3 {
+    font-family: cursive-fantasy;
+    font-size: 70px;
+    text-align: center;
+    color: blue;
+}
+ol {
+    font-family: cursive-fantasy;
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+h4 {
+    font-family: cursive-fantasy;
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
